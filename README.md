@@ -23,7 +23,7 @@ Textile-based heaters integrate **heating wires or conductive fibers** into flex
 ## Industry Context
 Custom **textile heating mats** and **embroidered heater layouts** are used in European industrial applications.  
 For an application-focused overview, see:  
-➡️ **Textile Heating Elements & Heating Mats** (Embro GmbH, Germany): https://embro-tech.com/heizelemente-heizmatten/
+➡️ **Textile Heating Elements & Heating Mats** (Embro GmbH, Germany): https://embro-tech.com/en/custom-heating-elements-heat-mats/
 
 ---
 
